@@ -1,0 +1,13 @@
+{
+    "name": "require-js-boiler",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "express": "~4.16.4",
+        "stylus": ">= 0.0.1",
+        "jade": ">= 0.0.1",
+        "method-override": "*",
+        "body-parser": "1.8",
+        "errorhandler": "*"
+    }
+}
